@@ -29,8 +29,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Nafis's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahauddinnafis&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahauddinnafis&layout=compact&theme=radical)
+![Nafis's GitHub stats](https://your-deploy.vercel.app/api?username=bahauddinnafis&show_icons=true&theme=radical)
+![Top Langs](https://your-deploy.vercel.app/api/top-langs/?username=bahauddinnafis&layout=compact&theme=radical)
 
 ---
 
