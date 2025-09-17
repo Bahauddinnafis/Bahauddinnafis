@@ -7,7 +7,7 @@
 ---
 
 ## ⚡ Tech Stack
-![Kotlin](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,docker,supabase,firebase,postgresql,python,androidstudio,html,css,js,php,laravel,vue,mysql,git,github,figma)
+![Kotlin](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,docker,supabase,firebase,postgresql,python,html,css,js,php,laravel,vue,mysql,git,github,figma)
 
 ---
 
