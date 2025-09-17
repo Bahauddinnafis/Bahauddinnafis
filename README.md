@@ -12,12 +12,12 @@
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=bahauddinnafis&theme=radical&border_radius=10)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=bahauddinnafis&theme=radical&hide_border=true" alt="streak stats"/>
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=bahauddinnafis&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+<img src="https://github-profile-trophy.vercel.app/?username=bahauddinnafis&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 
 ---
 
