@@ -1,23 +1,33 @@
-# Hi there, I'm Bahauddin Nafis 👋
+<div align="center">
 
-💻 **Software Engineer (Mobile & Web Development)**  
-🌏 Based in Indonesia • ✉️ [bahauddinafis@gmail.com](mailto:bahauddinafis@gmail.com)  
-📚 Currently focusing on **Mobile Development**
+# 👋 Bahauddin Nafis
 
----
+### Software Engineer | Mobile & Web Development
 
-## ⚡ Tech Stack
+🌏 Indonesia • 📧 bahauddinafis@gmail.com
 
-![Kotlin](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,docker,supabase,firebase,postgresql,python,html,css,js,php,laravel,vue,mysql,git,github,figma)
+*Currently mastering Mobile Development*
 
 ---
 
-## 🔥 Streak Stats
+### ⚡ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,docker,supabase,firebase,postgresql,python,html,css,js,php,laravel,vue,mysql,git,github,figma,reactnative)
+
+---
+
+### 🔥 Coding Streak
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=bahauddinnafis&theme=radical&hide_border=true" alt="streak stats"/>
 
 ---
 
-## ✨ Quote for You Guys!
+### 💭 Daily Inspiration
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+*"Code is poetry written in logic"*
+
+</div>
